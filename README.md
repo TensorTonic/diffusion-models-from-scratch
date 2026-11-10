@@ -145,6 +145,8 @@ Once the pieces above feel familiar, the [Diffusion Models from Scratch](https:/
 
 If you are preparing for interviews, the [Deep Learning Interview Questions](https://www.tensortonic.com/guides/deep-learning-interview-questions) guide covers the questions about the networks and training methods that these models are built on.
 
+If you want a written plan for the whole topic, the [How to Learn Diffusion Models](https://www.tensortonic.com/guides/how-to-learn-diffusion-models) guide explains how to learn diffusion models step by step and in what order.
+
 ## License
 
 MIT
