@@ -143,6 +143,8 @@ Running diffusion on full-size pixels is expensive, so latent diffusion first co
 
 Once the pieces above feel familiar, the [Diffusion Models from Scratch](https://www.tensortonic.com/study-plans/diffusion-from-scratch) study plan puts them together lesson by lesson. The [research](https://www.tensortonic.com/research) section has more papers to implement, the [Cracking CV](https://www.tensortonic.com/study-plans/cracking-cv) and [Cracking Deep Learning](https://www.tensortonic.com/study-plans/cracking-dl) plans go deeper on the network side, and the [projects](https://www.tensortonic.com/projects) page has larger builds such as a tiny CLIP model.
 
+If you are preparing for interviews, the [Deep Learning Interview Questions](https://www.tensortonic.com/guides/deep-learning-interview-questions) guide covers the questions about the networks and training methods that these models are built on.
+
 ## License
 
 MIT
